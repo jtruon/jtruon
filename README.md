@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3 align="left">Hi, Welcome to My GitHub Page. <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" /></h3>
 
-<!--
-**jtruon/jtruon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<p>I'm a Houston,TX based Back-ended Developer & Camunda BPM Consultant.</p>
+<br/>
+<h4>Skills<h4/> 
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+&nbsp<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+&nbsp<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+&nbsp<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+&nbsp<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+&nbsp<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+&nbsp<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></p>
+<br/>
+<h4>Reach Me<h4/> 
+<p align="left">
+<a href="https://linkedin.com/in/duytrg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="duytrg" height="30" width="30" /></a>
+</p>
