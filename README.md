@@ -1,7 +1,10 @@
 <h3 align="left">Hi, Welcome to My GitHub Page. <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" /></h3>
 
 <br/>
-<p>I'm a Houston,TX based Back-ended Developer & BPM Consultant.</p>
+<p>I'm a Houston,TX based Software Developer.</p>
+<p>I works with Java, Spring , Spring Boot and BPM tools (Camunda/jBPM) on daily basic.</p>
+<p>I also self-taught ReactJS, NodeJs, CSS3 on my free time.</p>
+<p>Feel free to check around my profile. I have succesfully cloned multiple popular web-application such as (Facebook, Amazon, WhatsApp, Hulu, etc.)</p>
 <br/>
 <h4>Skills<h4/> 
 <p align="left">
